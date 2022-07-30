@@ -49,13 +49,7 @@ AlphaWallet is the “browser” for users to access these SmartTokens. You can 
 
 Visit [TokenScript Documentation](https://github.com/AlphaWallet/TokenScript) or see [TokenScript Examples](https://github.com/AlphaWallet/TokenScript-Examples) to learn what you can do with it.
 
-### Philosophy
 
-AlphaWallet is founded by blockchain geeks, business professionals who believe blockchain technology will have a massive impact on the future and change the landscape of technology in general.
-
-We are committed to connecting businesses and consumers with the new digital economic infrastructure through tokenisation. Tokenised rights can be traded on the market and integrated across systems, forming a Frictionless Market and allowing limitless integration with the web.
-
-We want to give businesses the whitelabel tools they need to develop their ethereum wallets, and join the tokenised economy.
 
 # Getting Started
 
